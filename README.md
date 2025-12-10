@@ -119,7 +119,7 @@ Alle Dateien befinden sich in den Ordnern `docs/` und `screenshots/`.
 
 - VirtualBox  
 - Ubuntu Linux  
-- Windows 10 / Windows 11  
+- Windows 11  
 - TCP/IP Netzwerktechnik  
 - Samba (SMB Dateiserver)  
 - UFW Firewall  
